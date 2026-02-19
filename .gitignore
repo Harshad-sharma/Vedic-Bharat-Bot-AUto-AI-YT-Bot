@@ -1,0 +1,11 @@
+# Ignore Environment and Keys
+venv/
+.env
+client_secrets.json
+temp/token.pickle
+
+# Ignore Output Videos & Heavy Assets
+output/
+assets/
+temp/
+__pycache__/

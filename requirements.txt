@@ -1,0 +1,12 @@
+google-generativeai
+edge-tts
+moviepy
+requests
+python-dotenv
+pillow
+instagrapi
+google-auth-oauthlib
+google-api-python-client
+asyncio
+Pillow<10.0.0
+moviepy==1.0.3
