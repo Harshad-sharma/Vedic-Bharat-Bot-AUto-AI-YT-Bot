@@ -22,3 +22,36 @@ An automated AI-powered system that generates and uploads Vedic/Spiritual YouTub
 - MoviePy / FFmpeg for video editing
 
 ## Project Structure
+├── config.py
+
+├── main.py                 # Single video mode
+
+├── daily_batch.py          # Batch mode
+
+├── scripts/
+
+│   └── core/
+
+│       ├── ai_engine.py
+
+│       ├── ai_rotator.py
+
+│       ├── brainstorm.py
+
+│       ├── generate_script.py
+
+│       ├── generate_audio.py
+
+│       ├── gather_visuals.py
+
+│       ├── generate_thumbnail.py
+
+│       ├── edit_video.py
+
+│       ├── generate_seo.py
+
+│       └── youtube_uploader.py
+
+├── requirements.txt
+
+└── .env.example
