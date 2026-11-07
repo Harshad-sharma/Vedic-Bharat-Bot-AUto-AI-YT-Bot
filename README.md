@@ -54,4 +54,14 @@ An automated AI-powered system that generates and uploads Vedic/Spiritual YouTub
 
 ├── requirements.txt
 
+
+
+
+## Setup
+
+1. Clone the repository
+```bash
+git clone https://github.com/Harshad-sharma/Vedic-Bharat-Bot-AUto-AI-YT-Bot.git
+cd Vedic-Bharat-Bot-AUto-AI-YT-Bot
+
 └── .env.example
