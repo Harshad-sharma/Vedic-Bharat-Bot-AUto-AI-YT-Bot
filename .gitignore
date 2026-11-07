@@ -1,11 +1,10 @@
-# Ignore Environment and Keys
-venv/
 .env
+*.log
+batch_history.log
+bot_history.log
+SCAN_REPORT.md
+SCAN_SUMMARY.json
+database/
 client_secrets.json
-temp/token.pickle
-
-# Ignore Output Videos & Heavy Assets
-output/
-assets/
 temp/
-__pycache__/
+token.pickle
