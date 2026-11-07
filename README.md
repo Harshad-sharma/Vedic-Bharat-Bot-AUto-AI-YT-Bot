@@ -65,3 +65,27 @@ git clone https://github.com/Harshad-sharma/Vedic-Bharat-Bot-AUto-AI-YT-Bot.git
 cd Vedic-Bharat-Bot-AUto-AI-YT-Bot
 
 └── .env.example
+
+
+
+
+
+
+Install dependencies
+Bashpip install -r requirements.txt
+Create .env file from example
+Bashcp .env.example .env
+Add your API keys in .env:
+
+GEMINI_API_KEY
+PIXABAY_API_KEY
+PEXELS_API_KEY
+
+Place your client_secrets.json (YouTube OAuth) in the root folder.
+Run the bot
+Bashpython main.pyImportant Notes
+Never commit your .env or client_secrets.json files.
+This project is for educational and personal automation purposes.
+Respect YouTube and stock media terms of service.
+Some media sources may have copyright restrictions — always verify before uploading.
+LicenseMIT License
